@@ -32,4 +32,4 @@ Notebook Outline:
    a. Fine tuning:
    TEST accuracy: 0.8222
 
-You can find the code and all the in "Chest_cancer_classification-2.ipynb" file above.
+You can find the code and all the in ["Chest_cancer_classification-2.ipynb"](https://github.com/miraslavats/chest-cancer-classification/blob/4bab151126ee63c47a6f1db6708843f5ff9904eb/Chest_cancer_classification-2.ipynb) file above.
