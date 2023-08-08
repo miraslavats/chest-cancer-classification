@@ -1,5 +1,5 @@
 # chest-cancer-classification
-In this notebook [https://github.com/miraslavats/chest-cancer-classification/blob/4bab151126ee63c47a6f1db6708843f5ff9904eb/Chest_cancer_classification-2.ipynb], I am building several image classification deep learning models to identify the type of cancer given an image of a lung.
+In this [notebook] (https://github.com/miraslavats/chest-cancer-classification/blob/4bab151126ee63c47a6f1db6708843f5ff9904eb/Chest_cancer_classification-2.ipynb), I am building several image classification deep learning models to identify the type of cancer given an image of a lung.
 
 GOAL: build and train a model that accurately identifies whether the lung in the image is cancerous or not and what type of cancer it is.
 My approach: I compared a shallow neural network with EffecientNetB0 feature extraction and fine tuning models. I also tested how the models perform with or without EarlyStopping, Batch Normalization, Dropout, Data Augmentation. Having tested all the models, I saw that the most effective one was the first model (EfficientNetB0 feature extraction) with early stopping and batch normalization. The model had 82% accuracy on the test data. I am planning to come back to this notebook with more knowledge and achieve ~90% accuracy. 
